@@ -1,5 +1,6 @@
 > # Python_Desktop_Starter
-> - This is a python GUI that lets you compile a list of your favorite apps and start them simultaneously.
+> - This project allows you to select a list of essential computer programs, and open them at the same time, 
+a workflow solution 📚
 
 > # It's Simple
 > - run the script, use the gui to select a list of exe file from your favoure programs. 
