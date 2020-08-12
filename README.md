@@ -3,8 +3,8 @@
 a workflow solution 📚
 
 > # It's Simple
-> - run the script, use the gui to select a list of exe file from your favoure programs. 
-> - have a blast !
+> - click to open the program (.py fiile) then to select .exe files from your favoure computer programs. 
+> - Once the list is complete. Click "Run Apps"
 
 
 > ## Preview
