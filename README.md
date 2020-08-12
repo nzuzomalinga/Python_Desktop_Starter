@@ -3,7 +3,7 @@
 a workflow solution 📚
 
 > # It's Simple
-> - click to open the program (.py fiile) then to select .exe files from your favoure computer programs. 
+> - Click to open the program (.py fiile) then to select .exe files from your favoure computer programs. 
 > - Once the list is complete. Click "Run Apps"
 
 
