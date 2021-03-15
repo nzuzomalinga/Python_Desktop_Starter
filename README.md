@@ -1,6 +1,6 @@
 > # Python_Desktop_Starter
-> - This project allows you to select a list of essential computer programs, and open them at the same time, 
-a workflow solution 📚
+> - This project allows you to select a list of essential computer programs, and open them at the same time. 
+> - A workflow solution 📚
 
 > # It's Simple
 > - Click to open the program (.py fiile) then to select .exe files from your favoure computer programs. 
